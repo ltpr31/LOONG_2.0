@@ -1,0 +1,1 @@
+You can simply try LOONG using the command saved in "record.sh".
